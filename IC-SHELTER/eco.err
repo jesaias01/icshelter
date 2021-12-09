@@ -1,0 +1,161 @@
+** ECO In Report **
+
+Tue Nov  2 22:25:12 2021
+
+Input  File : C:\PADS Projects\DxProjects\IC-SHELTER\TOP.eco
+Current Job : PCB P1.pcb
+
+
+
+Line 23 , Section *PART*
+C14  CAP_NP
+* Failed to get NS from library
+
+Line 24 , Section *PART*
+C15  CAP_NP
+* Failed to get NS from library
+
+Line 25 , Section *PART*
+C4  CAP_NP
+* Failed to get NS from library
+
+Line 26 , Section *PART*
+C5  CAP_NP
+* Failed to get NS from library
+
+Line 27 , Section *PART*
+C6  CAP_NP
+* Failed to get NS from library
+
+Line 28 , Section *PART*
+C7  CAP_NP
+* Failed to get NS from library
+
+Line 29 , Section *PART*
+C8  CAP_NP
+* Failed to get NS from library
+
+Line 30 , Section *PART*
+C9  CAP_NP
+* Failed to get NS from library
+
+Line 31 , Section *PART*
+C16  CAP_POL
+* Failed to get NS from library
+
+Line 132 , Section *PART*
+TVS1  TVS
+* Failed to get SOD-923 from library
+
+Line 133 , Section *PART*
+TVS2  TVS
+* Failed to get SOD-923 from library
+
+Line 135 , Section *PART*
+X1  XTAL_8MHZ_HC49S
+* Failed to get XTAL_HC-49 from library
+
+Line 156 , Section *NET*
+X1.1  R18.1  C3.2  U3.9
+* Part name X1 not found
+
+Line 158 , Section *NET*
+U3.10  C4.2  X1.2  R18.2
+* Part name C4 not found
+* Part name X1 not found
+
+Line 174 , Section *NET*
+PB1.1  C9.2  PB1.2  R20.2  U3.43  J2.5
+* Part name C9 not found
+
+Line 286 , Section *NET*
+U12.1  C14.1  R50.1  TP3.1  F1.1  K1.1  K2.1
+* Part name C14 not found
+
+Line 292 , Section *NET*
+R10.1  R9.1  R17.1  C15.1  C16.1  R51.1  TP2.1
+* Part name C15 not found
+* Part name C16 not found
+
+Line 294 , Section *NET*
+R37.1  U10.1  C5.2  C6.2  C7.2  C8.2  R72.2
+* Part name C5 not found
+* Part name C6 not found
+* Part name C7 not found
+* Part name C8 not found
+
+Line 295 , Section *NET*
+R28.2  R27.2  R26.2  R25.2  U9.2  TVS1.2  U3.28
+* Part name TVS1 not found
+
+Line 346 , Section *NET*
+C4.1  C9.1  C5.1  C6.1  C7.1  C8.1  C3.1
+* Part name C4 not found
+* Part name C9 not found
+* Part name C5 not found
+* Part name C6 not found
+* Part name C7 not found
+* Part name C8 not found
+
+Line 347 , Section *NET*
+U9.1  D14.1  D15.1  D16.1  TP1.1  TVS1.1  TVS2.1
+* Part name TVS1 not found
+* Part name TVS2 not found
+
+Line 349 , Section *NET*
+DS1.16  C1.2  C2.2  U12.2  C14.2  C15.2  C16.2
+* Part name C14 not found
+* Part name C15 not found
+* Part name C16 not found
+
+Line 357 , Section *NET*
+R49.1  R47.1  R22.1  R30.1  R34.1  TVS2.2  U9.4
+* Part name TVS2 not found
+
+Line 431 , Section *SET_ATTRIBUTE*
+*SET_ATTRIBUTE* PART C14
+* Incorrect object name : C14
+
+Line 436 , Section *SET_ATTRIBUTE*
+*SET_ATTRIBUTE* PART C15
+* Incorrect object name : C15
+
+Line 441 , Section *SET_ATTRIBUTE*
+*SET_ATTRIBUTE* PART C4
+* Incorrect object name : C4
+
+Line 446 , Section *SET_ATTRIBUTE*
+*SET_ATTRIBUTE* PART C5
+* Incorrect object name : C5
+
+Line 451 , Section *SET_ATTRIBUTE*
+*SET_ATTRIBUTE* PART C6
+* Incorrect object name : C6
+
+Line 456 , Section *SET_ATTRIBUTE*
+*SET_ATTRIBUTE* PART C7
+* Incorrect object name : C7
+
+Line 461 , Section *SET_ATTRIBUTE*
+*SET_ATTRIBUTE* PART C8
+* Incorrect object name : C8
+
+Line 466 , Section *SET_ATTRIBUTE*
+*SET_ATTRIBUTE* PART C9
+* Incorrect object name : C9
+
+Line 471 , Section *SET_ATTRIBUTE*
+*SET_ATTRIBUTE* PART C16
+* Incorrect object name : C16
+
+Line 1082 , Section *SET_ATTRIBUTE*
+*SET_ATTRIBUTE* PART TVS1
+* Incorrect object name : TVS1
+
+Line 1088 , Section *SET_ATTRIBUTE*
+*SET_ATTRIBUTE* PART TVS2
+* Incorrect object name : TVS2
+
+Line 1099 , Section *SET_ATTRIBUTE*
+*SET_ATTRIBUTE* PART X1
+* Incorrect object name : X1

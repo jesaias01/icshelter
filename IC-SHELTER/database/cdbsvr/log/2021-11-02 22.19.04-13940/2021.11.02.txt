@@ -1,0 +1,107 @@
+[2021.11.02 22:19:04] [0000m.00s.019ms] [0] WELCOME
+[2021.11.02 22:19:04] [0000m.00s.020ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.11.02 22:19:04] [0000m.00s.020ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.11.02 22:19:04] [0000m.00s.020ms] [1] Base flow version [VX.2.7]
+[2021.11.02 22:19:04] [0000m.00s.020ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.11.02 22:19:04] [0000m.00s.030ms] [1] Machine [LAPTOP-ALT0T7VN]  IP [10.0.0.11,127.0.0.1]  User [Jesaias A.S]  PID [13940]
+[2021.11.02 22:19:04] [0000m.00s.036ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 19042)]
+[2021.11.02 22:19:04] [0000m.00s.036ms] [1] Current working dir [C:\Users\Jesaias A.S\Downloads]
+[2021.11.02 22:19:04] [0000m.00s.036ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common3D\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\MATLAB\R2017b\runtime\win64;C:\Program Files\MATLAB\R2017b\bin;C:\Program Files\PuTTY\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files\TortoiseGit\bin;C:\Users\Jesaias A.S\AppData\Local\Microsoft\WindowsApps;C:\Modeltech_pe_edu_10.4a\win32pe_edu]
+[2021.11.02 22:19:04] [0000m.00s.036ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.11.02 22:19:04] [0000m.00s.036ms] [1] SDD_PLATFORM [win32]
+[2021.11.02 22:19:04] [0000m.00s.036ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.11.02 22:19:04] [0000m.00s.036ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.11.02 22:19:04] [0000m.00s.036ms] [2] S: Loading config files
+[2021.11.02 22:19:04] [0000m.00s.040ms] [1] Config file [C:\PADS Projects\DxProjects\IC-SHELTER\database\cdbsvr\Server.cfg] not found
+[2021.11.02 22:19:04] [0000m.00s.041ms] [3] S: Config loaded
+[2021.11.02 22:19:04] [0000m.00s.045ms] [0] S: Project path [C:\PADS Projects\DxProjects\IC-SHELTER\database] on file system [NTFS]
+[2021.11.02 22:19:04] [0000m.00s.045ms] [1] S: WARNING: No project file (.prj) path specified
+[2021.11.02 22:19:04] [0000m.00s.045ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.11.02 22:19:04] [0000m.00s.045ms] [0] S: Single-user mode (auto)
+[2021.11.02 22:19:04] [0000m.00s.045ms] [0] S: Event polling mode autodetection
+[2021.11.02 22:19:04] [0000m.00s.046ms] [0] S: Started up automatically by iCDB Client: LAPTOP-ALT0T7VN:Jesaias A.S:16968
+[2021.11.02 22:19:04] [0000m.00s.046ms] [0] S: Auto close mode
+[2021.11.02 22:19:04] [0000m.00s.046ms] [0] S: Database ID [27a2-a616-9daf-9a83-9617-c51f-617c-5160-bb32-6e60-5e40-ad8a]
+[2021.11.02 22:19:04] [0000m.00s.046ms] [0] PathTranslator: BEGIN dumping
+[2021.11.02 22:19:04] [0000m.00s.046ms] [0] PathTranslator: Local -> global path prefix list
+[2021.11.02 22:19:04] [0000m.00s.046ms] [0] PathTranslator: Global -> local path prefix list
+[2021.11.02 22:19:04] [0000m.00s.046ms] [0] PathTranslator: END dumping
+[2021.11.02 22:19:04] [0000m.00s.046ms] [0] S: START
+[2021.11.02 22:19:04] [0000m.00s.047ms] [0] S: Server startup lock file created
+[2021.11.02 22:19:04] [0000m.00s.047ms] [0] S: Listening for client connections on port [10003]
+[2021.11.02 22:19:04] [0000m.00s.048ms] [0] S: Server network ID [LAPTOP-ALT0T7VN:10.0.0.11,LAPTOP-ALT0T7VN:10003]
+[2021.11.02 22:19:04] [0000m.00s.048ms] [0] S: Server GUID [442a-129b-d7c7-ab25-891f-181e-91f1-8160-0b03-6e60-5e40-ad0a]
+[2021.11.02 22:19:04] [0000m.00s.048ms] [0] S: Project GUID [27a2-a616-9daf-9a83-9617-c51f-617c-5160-bb32-6e60-5e40-ad8a]
+[2021.11.02 22:19:04] [0000m.00s.050ms] [0] S: Wrote data to server address file
+[2021.11.02 22:19:04] [0000m.00s.050ms] [0] S: Server startup lock file removed
+[2021.11.02 22:19:04] [0000m.00s.051ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2021.11.02 22:19:04] [0000m.00s.090ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.11.02 22:19:04] [0000m.00s.090ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.11.02 22:19:04] [0000m.00s.090ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.11.02 22:19:04] [0000m.00s.093ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.11.02 22:19:04] [0000m.00s.093ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.11.02 22:19:04] [0000m.00s.093ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.11.02 22:19:04] [0000m.00s.093ms] [0] S: Local disc access time: 69 us
+[2021.11.02 22:19:04] [0000m.00s.093ms] [0] S: File server access time: 66 us
+[2021.11.02 22:19:04] [0000m.00s.094ms] [0] Single file [C:\PADS Projects\DxProjects\IC-SHELTER\database\icdb.dat] size [301384 (294.3 kB)]
+[2021.11.02 22:19:04] [0000m.00s.094ms] [1] Single file [C:\PADS Projects\DxProjects\IC-SHELTER\database\icdb.dat] opened in read-write mode
+[2021.11.02 22:19:04] [0000m.00s.095ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.02 22:19:04] [0000m.00s.095ms] [0] Database GUARD OK: [301384]
+[2021.11.02 22:19:04] [0000m.00s.096ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.02 22:19:04] [0000m.00s.096ms] [0] Database GUARD OK: [301384]
+[2021.11.02 22:19:04] [0000m.00s.096ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.02 22:19:04] [0000m.00s.096ms] [0] Database GUARD OK: [301384]
+[2021.11.02 22:19:04] [0000m.00s.097ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.02 22:19:04] [0000m.00s.097ms] [0] Database GUARD OK: [301384]
+[2021.11.02 22:19:04] [0000m.00s.097ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.02 22:19:04] [0000m.00s.097ms] [0] Database GUARD OK: [301384]
+[2021.11.02 22:19:04] [0000m.00s.097ms] [0] SingleFile: [69fb-ca95-5d6c-997e] SFI version check [1009] [1009]
+[2021.11.02 22:19:04] [0000m.00s.113ms] [0] SingleFile: [69fb-ca95-5d6c-997e] Database SFI header has been read in [16ms 134us]
+[2021.11.02 22:19:04] [0000m.00s.131ms] [0] iCDB Server PI: Server & plugin session [200]
+[2021.11.02 22:19:04] [0000m.00s.131ms] [0] iCDB Server PI: Opening database [C:\PADS Projects\DxProjects\IC-SHELTER\database]
+[2021.11.02 22:19:04] [0000m.00s.132ms] [0] iCDB Server PI: Database [C:\PADS Projects\DxProjects\IC-SHELTER\database] opened
+[2021.11.02 22:19:04] [0000m.00s.199ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.11.02 22:19:04] [0000m.00s.199ms] [0] iCDB Database: Checking constraint definitions version
+[2021.11.02 22:19:04] [0000m.00s.287ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.11.02 22:19:04] [0000m.00s.300ms] [0] iCDB Server PI: Initializing plugins
+[2021.11.02 22:19:04] [0000m.00s.301ms] [0] iCDB Server PI: Plugins initialized
+[2021.11.02 22:19:04] [0000m.00s.301ms] [0] S: iCDB database loaded
+[2021.11.02 22:19:04] [0000m.00s.304ms] [0] S: Starting threads
+[2021.11.02 22:19:04] [0000m.00s.305ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.11.02 22:19:04] [0000m.00s.306ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.11.02 22:19:04] [0000m.00s.307ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2021.11.02 22:19:04] [0000m.00s.310ms] [0] IT: Session [201] for host [LAPTOP-ALT0T7VN] user [Jesaias A.S] client type[0] clsvrPluginID[0] with process ID [16968] created
+[2021.11.02 22:19:04] [0000m.00s.314ms] [1] SC[201]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [201] host [LAPTOP-ALT0T7VN] user [Jesaias A.S] process ID [16968]
+[2021.11.02 22:19:04] [0000m.00s.316ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.11.02 22:19:04] [0000m.00s.327ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2021.11.02 22:19:04] [0000m.00s.327ms] [0] IT: iCDB Server Monitor session [1] for host [LAPTOP-ALT0T7VN] user [Jesaias A.S] with process ID [14000] created
+[2021.11.02 22:19:04] [0000m.00s.416ms] [1] CMT: There are [1] clients now: 201
+[2021.11.02 22:19:04] [0000m.00s.550ms] [1] SC[201]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [201] host [LAPTOP-ALT0T7VN] user [Jesaias A.S] process ID [16968]
+[2021.11.02 22:19:04] [0000m.00s.652ms] [1] CMT: Removed client [201]
+[2021.11.02 22:19:04] [0000m.00s.652ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.11.02 22:19:05] [0000m.00s.836ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2021.11.02 22:19:06] [0000m.01s.840ms] [0] CMT: Starting server auto-close
+[2021.11.02 22:19:06] [0000m.01s.946ms] [0] S: Closing server
+[2021.11.02 22:19:06] [0000m.01s.962ms] [0] ProjectBackupManager: WARNING: Could not shutdown Project Backup engine - not started yet
+[2021.11.02 22:19:06] [0000m.02s.100ms] [0] iCDB Server PI: Closing plugins
+[2021.11.02 22:19:06] [0000m.02s.100ms] [0] iCDB Server PI: Plugins closed
+[2021.11.02 22:19:06] [0000m.02s.100ms] [0] iCDB Server PI: Unloading database
+[2021.11.02 22:19:06] [0000m.02s.112ms] [0] iCDB Server PI: Saving storage
+[2021.11.02 22:19:06] [0000m.02s.113ms] [0] iCDB Server PI: Closing database
+[2021.11.02 22:19:06] [0000m.02s.113ms] [1] Hole: zero line at 301356 of size 8 bytes.
+[2021.11.02 22:19:06] [0000m.02s.114ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[0%] data[98%]
+[2021.11.02 22:19:06] [0000m.02s.114ms] [1] iCDB Server PI: Stats: Database file size [301384 (294.3 kB)]
+[2021.11.02 22:19:06] [0000m.02s.115ms] [1] Hole: zero line at 301356 of size 8 bytes.
+[2021.11.02 22:19:06] [0000m.02s.134ms] [0] iCDB Server PI: Database closed
+[2021.11.02 22:19:06] [0000m.02s.134ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [398] ticks
+[2021.11.02 22:19:06] [0000m.02s.134ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [39] microseconds
+[2021.11.02 22:19:06] [0000m.02s.134ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [1]
+[2021.11.02 22:19:06] [0000m.02s.134ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [25125] commands per second
+[2021.11.02 22:19:06] [0000m.02s.134ms] [1] iCDB Server PI: Stats: Mem[29241344]
+[2021.11.02 22:19:06] [0000m.02s.134ms] [1] iCDB Server PI: Stats: MemPeak[40779776]
+[2021.11.02 22:19:06] [0000m.02s.137ms] [0] Single file [C:\PADS Projects\DxProjects\IC-SHELTER\database\icdb.dat] closed with size [301384 (294.3 kB)]
+[2021.11.02 22:19:06] [0000m.02s.207ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2021.11.02 22:19:06] [0000m.02s.247ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2021.11.02 22:19:06] [0000m.02s.361ms] [0] MWT: Destroy the shutdown block reason.
+[2021.11.02 22:19:06] [0000m.02s.368ms] [0] MWT: STOP
+[2021.11.02 22:19:06] [0000m.02s.370ms] [0] S: STOP
